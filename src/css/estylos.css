@@ -88,6 +88,12 @@
 .container-descricao h2 {
     font-size: 32px;
     font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.container-descricao p {
+    line-height: 1.8;
+    font-size: 16px;
 }
 
 .container-quartos {
@@ -209,5 +215,5 @@
     padding: 20px;
     font-weight: 600;
     text-align: center;
-    border-radius: 1px solid #3b7863;
+    border-top: 1px solid #3b7863;
 }
